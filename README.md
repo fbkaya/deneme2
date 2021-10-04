@@ -1,2 +1,1 @@
-# deneme2
-deneme2
+Example site modified from https://github.com/gohugoio/hugoBasicExample
